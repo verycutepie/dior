@@ -1399,9 +1399,9 @@
   }
 
   .u-section-8 .u-layout-wrap-1 {
-    width: 250px;
-    margin-left: auto;
+    width: 300px;
     margin-right: auto;
+    margin-left: 0;
   }
 
   .u-section-8 .u-image-1 {
@@ -1409,7 +1409,7 @@
   }
 
   .u-section-8 .u-layout-cell-2 {
-    min-height: 702px;
+    min-height: 777px;
   }
 
   .u-section-8 .u-text-1 {
