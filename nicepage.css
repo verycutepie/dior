@@ -33619,14 +33619,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-header .u-image-1 {
-    width: auto;
-    height: auto;
+    width: 24px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-image-1 {
     width: 23px;
-    height: 32px;
   }
 }
 @media (max-width: 575px) {
