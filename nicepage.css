@@ -33611,11 +33611,15 @@ a.u-link.u-text-hover-grey-90:hover {
   max-width: 64px;
   max-height: 64px;
 }
-
+@media (max-width: 1199px) {
+  .u-header .u-image-1 {
+    width: 31px;
+    height: 32px;
+  }
+}
 @media (max-width: 991px) {
   .u-header .u-image-1 {
     width: 24px;
-    height: 32px;
   }
 }
 @media (max-width: 767px) {
