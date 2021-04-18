@@ -8376,7 +8376,7 @@ section.u-image,
 .u-sheet.u-image,
 .u-group.u-image,
 .u-layout-cell.u-image {
-  overflow: visible;
+  overflow: auto;
 }
 .u-text .u-image {
   display: inline-block;
